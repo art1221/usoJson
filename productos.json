@@ -1,0 +1,25 @@
+{
+  "productos" : [
+    {
+      "id" : 1,
+      "nombre" : "Producto 1",
+      "precio" : 345,
+      "cantidad" : 0,
+      "imagen" : "planeta1tex.jpg"
+    },
+    {
+      "id" : 2,
+      "nombre" : "Producto 2",
+      "precio" : 876,
+      "cantidad" : 0,
+      "imagen" : "planeta2tex.jpg"
+    },
+    {
+      "id" : 3,
+      "nombre" : "Producto 3",
+      "precio" : 194,
+      "cantidad" : 0
+      "imagen" : "planeta3tex.jpg"
+    }
+  ]
+}
