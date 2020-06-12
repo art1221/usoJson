@@ -18,7 +18,7 @@
       "id" : 3,
       "nombre" : "Producto 3",
       "precio" : 194,
-      "cantidad" : 0
+      "cantidad" : 0,
       "imagen" : "planeta3tex.jpg"
     }
   ]
